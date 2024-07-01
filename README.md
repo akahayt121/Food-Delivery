@@ -36,4 +36,5 @@ Follow these steps to get a local copy of the project up and running.
 git clone https://github.com/akahayt121/Restaurant-Application.git
 cd Restaurant-Application
 
+Sample video: https://drive.google.com/file/d/1HuGL-DUZT8thtHp4p0aKB1f003FjhgRn/view?usp=sharing
 
