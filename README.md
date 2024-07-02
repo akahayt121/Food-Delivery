@@ -13,11 +13,11 @@ Sample video: https://drive.google.com/file/d/1HuGL-DUZT8thtHp4p0aKB1f003FjhgRn/
    **Training project (Batch-1)**
 
 - **Akshay Tiwari**
-  - Roll Number: 70
+  - Roll Number: 70  (sec A)
 - **Aaditri Mishra**
-  - Roll Number: 01
+  - Roll Number: 01 (sec A)
 - **Abhay Dwivedi**
-  - Roll Number: 10
+  - Roll Number: 10 (sec A)
 
 ## Features
 
