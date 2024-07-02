@@ -7,6 +7,7 @@
 ## Project Overview
 
 The Restaurant Application is a web-based platform designed to provide a seamless dining experience. Customers can browse menus and make reservations. The application is built using the MERN stack (MongoDB, Express.js, React, Node.js) and utilizes Vite for fast and optimized development in the React frontend.
+Sample video: https://drive.google.com/file/d/1HuGL-DUZT8thtHp4p0aKB1f003FjhgRn/view?usp=sharing 
 
 ## Authors
    **Training project (Batch-1)**
