@@ -2,7 +2,7 @@
 
 ---
 
-# HomeHeaven
+# Restaurant Application
 
 ## Project Overview
 
